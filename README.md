@@ -43,16 +43,6 @@ Custom schematic symbol libraries reused across multiple projects for easier and
 
 ---
 
-## 🖼️ Preview
-
-```markdown
-![Water Alarm PCB](images/water-alarm-pcb.png)
-![Water Alarm Schematic](images/water-alarm-schematic.png)
-![Amplifier PCB](images/amplifier-pcb.png)
-```
-
----
-
 ## 🛠️ Getting Started
 
 1. Install **[KiCad](https://www.kicad.org/download/)** (v7 or later recommended).
