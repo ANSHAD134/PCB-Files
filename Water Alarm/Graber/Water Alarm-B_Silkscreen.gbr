@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.0-rc1.1*%
+%TF.CreationDate,2026-06-17T20:55:57+05:30*%
+%TF.ProjectId,Water Alarm,57617465-7220-4416-9c61-726d2e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.0-rc1.1) date 2026-06-17 20:55:57*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.500000*%
+G04 APERTURE END LIST*
+D10*
+X147664000Y-107893232D02*
+X147664000Y-110178947D01*
+X148806857Y-109036089D02*
+X146521142Y-109036089D01*
+M02*
