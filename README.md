@@ -45,9 +45,6 @@ Custom schematic symbol libraries reused across multiple projects for easier and
 
 ## 🖼️ Preview
 
-> Add PCB / schematic screenshots here so visitors can see the boards without opening KiCad.
-> Tip: In KiCad, use **File → Plot** or take a screenshot of the 3D viewer, then drop the image into an `images/` folder and reference it like below:
-
 ```markdown
 ![Water Alarm PCB](images/water-alarm-pcb.png)
 ![Water Alarm Schematic](images/water-alarm-schematic.png)
