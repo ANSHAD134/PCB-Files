@@ -2260,7 +2260,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 156.21) (xy 54.61 161.29)
+			(xy 54.61 134.62) (xy 54.61 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2570,7 +2570,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 176.53) (xy 54.61 184.15)
+			(xy 54.61 154.94) (xy 54.61 162.56)
 		)
 		(stroke
 			(width 0)
@@ -2676,7 +2676,7 @@
 	)
 	(global_label "-12V"
 		(shape input)
-		(at 54.61 184.15 270)
+		(at 54.61 162.56 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2686,7 +2686,7 @@
 		)
 		(uuid "931be8c5-ac64-4edf-9c23-7cc1e0550378")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.61 192.2152 90)
+			(at 54.61 170.6252 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2748,7 +2748,7 @@
 	)
 	(global_label "+12V"
 		(shape input)
-		(at 54.61 156.21 90)
+		(at 54.61 134.62 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2758,7 +2758,7 @@
 		)
 		(uuid "c30f3e9d-10d6-421a-8a81-22ff20d2d398")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.61 148.1448 90)
+			(at 54.61 126.5548 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3947,7 +3947,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 57.15 168.91 0)
+		(at 57.15 147.32 0)
 		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3958,7 +3958,7 @@
 		(fields_autoplaced yes)
 		(uuid "c864cc62-63ab-495f-9c35-646cbcce2f6f")
 		(property "Reference" "U1"
-			(at 55.88 167.6399 0)
+			(at 55.88 146.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3969,7 +3969,7 @@
 			)
 		)
 		(property "Value" "LM833"
-			(at 55.88 170.1799 0)
+			(at 55.88 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3980,7 +3980,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
-			(at 57.15 168.91 0)
+			(at 57.15 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3991,7 +3991,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 57.15 168.91 0)
+			(at 57.15 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4002,7 +4002,7 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 57.15 168.91 0)
+			(at 57.15 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
